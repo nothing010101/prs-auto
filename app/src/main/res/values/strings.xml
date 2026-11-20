@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PRS Auto</string>
+    <string name="accessibility_desc">PRS Auto membaca layar Chrome untuk mengotomasi tugas Follow Instagram di pr.social: klik tugas, klik Ikuti, ambil screenshot, dan upload tangkapan layar. Layanan ini hanya aktif saat Anda menekan MULAI di aplikasi.</string>
+</resources>
